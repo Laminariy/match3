@@ -5,8 +5,9 @@
 
 ## Зависимости:
 
-  [lume](https://github.com/rxi/lume) - для работы с таблицами.
-  [hump.class](https://github.com/vrld/hump) - для работы с классами.
+  -[lume](https://github.com/rxi/lume) - для работы с таблицами.
+
+  -[hump.class](https://github.com/vrld/hump) - для работы с классами.
 
 ## Запуск:
 
