@@ -1,8 +1,6 @@
 # Match-3 Board model
 Простая модель доски для игр три-в-ряд.
 
-Тестовое задание для Red Brix Wall.
-
 ## Зависимости:
 
   -[lume](https://github.com/rxi/lume) - для работы с таблицами.
